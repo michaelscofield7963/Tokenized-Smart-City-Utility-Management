@@ -7,3 +7,5 @@ Q
 !contracts/payment-processing.clar,5/9/5926a5ac11855697180d819d58e223389a545d2b
 P
  tests/payment-processing.test.ts,e/f/ef7484d00110932cbe9dc7c3d7ae60aa83db8e18
+O
+tests/resident-identity.test.ts,6/c/6c990d464260b72468dbd86584e8faa0d77e36a0
